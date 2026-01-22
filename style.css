@@ -3,10 +3,4 @@
   --primary-hover: #0f766e;
   --accent: #4ade80;
   --accent-soft: #f0fdf4;
-
-  @layer base {
-    * {
-      @apply transition-colors duration-150 ease-in-out;
-    }
-  }
 }
